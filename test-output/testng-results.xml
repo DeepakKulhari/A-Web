@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="15" passed="15">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="62922" started-at="2019-04-23T05:40:37Z" finished-at="2019-04-23T05:41:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="62922" started-at="2019-04-23T05:40:37Z" finished-at="2019-04-23T05:41:39Z">
+      <class name="TestCases.ALLTest">
+        <test-method status="PASS" signature="Login()[pri:0, instance:TestCases.ALLTest@21e360a]" name="Login" is-config="true" duration-ms="4656" started-at="2019-04-23T05:40:37Z" finished-at="2019-04-23T05:40:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="hamburgerTest()[pri:0, instance:TestCases.ALLTest@21e360a]" name="hamburgerTest" duration-ms="4488" started-at="2019-04-23T05:40:41Z" finished-at="2019-04-23T05:40:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hamburgerTest -->
+        <test-method status="PASS" signature="LandingSearchBeforeloggedIn()[pri:1, instance:TestCases.ALLTest@21e360a]" name="LandingSearchBeforeloggedIn" duration-ms="4433" started-at="2019-04-23T05:40:46Z" finished-at="2019-04-23T05:40:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LandingSearchBeforeloggedIn -->
+        <test-method status="PASS" signature="register()[pri:2, instance:TestCases.ALLTest@21e360a]" name="register" duration-ms="2798" started-at="2019-04-23T05:40:50Z" finished-at="2019-04-23T05:40:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="GeneralSettingsTest()[pri:3, instance:TestCases.ALLTest@21e360a]" name="GeneralSettingsTest" duration-ms="5341" started-at="2019-04-23T05:40:53Z" finished-at="2019-04-23T05:40:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GeneralSettingsTest -->
+        <test-method status="PASS" signature="RefineTest()[pri:4, instance:TestCases.ALLTest@21e360a]" name="RefineTest" duration-ms="2113" started-at="2019-04-23T05:40:58Z" finished-at="2019-04-23T05:41:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RefineTest -->
+        <test-method status="PASS" signature="advsearchbox()[pri:5, instance:TestCases.ALLTest@21e360a]" name="advsearchbox" duration-ms="2278" started-at="2019-04-23T05:41:00Z" finished-at="2019-04-23T05:41:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- advsearchbox -->
+        <test-method status="PASS" signature="LandingSearchAfterLoggedIn()[pri:6, instance:TestCases.ALLTest@21e360a]" name="LandingSearchAfterLoggedIn" duration-ms="3242" started-at="2019-04-23T05:41:03Z" finished-at="2019-04-23T05:41:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LandingSearchAfterLoggedIn -->
+        <test-method status="PASS" signature="hamburgerTestMyLibrary()[pri:7, instance:TestCases.ALLTest@21e360a]" name="hamburgerTestMyLibrary" duration-ms="3599" started-at="2019-04-23T05:41:06Z" finished-at="2019-04-23T05:41:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hamburgerTestMyLibrary -->
+        <test-method status="PASS" signature="LandingWall()[pri:8, instance:TestCases.ALLTest@21e360a]" name="LandingWall" duration-ms="4090" started-at="2019-04-23T05:41:10Z" finished-at="2019-04-23T05:41:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LandingWall -->
+        <test-method status="PASS" signature="Checkout()[pri:9, instance:TestCases.ALLTest@21e360a]" name="Checkout" duration-ms="5297" started-at="2019-04-23T05:41:14Z" finished-at="2019-04-23T05:41:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checkout -->
+        <test-method status="PASS" signature="Hold()[pri:10, instance:TestCases.ALLTest@21e360a]" name="Hold" duration-ms="7103" started-at="2019-04-23T05:41:19Z" finished-at="2019-04-23T05:41:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Hold -->
+        <test-method status="PASS" signature="MystuffCheckout()[pri:11, instance:TestCases.ALLTest@21e360a]" name="MystuffCheckout" duration-ms="7334" started-at="2019-04-23T05:41:26Z" finished-at="2019-04-23T05:41:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MystuffCheckout -->
+        <test-method status="PASS" signature="MystuffHold()[pri:12, instance:TestCases.ALLTest@21e360a]" name="MystuffHold" duration-ms="2122" started-at="2019-04-23T05:41:33Z" finished-at="2019-04-23T05:41:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MystuffHold -->
+        <test-method status="PASS" signature="MystuffWhislist()[pri:13, instance:TestCases.ALLTest@21e360a]" name="MystuffWhislist" duration-ms="2089" started-at="2019-04-23T05:41:35Z" finished-at="2019-04-23T05:41:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MystuffWhislist -->
+        <test-method status="PASS" signature="logout()[pri:14, instance:TestCases.ALLTest@21e360a]" name="logout" duration-ms="1776" started-at="2019-04-23T05:41:38Z" finished-at="2019-04-23T05:41:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestCases.ALLTest@21e360a]" name="closeBrowser" is-config="true" duration-ms="104" started-at="2019-04-23T05:41:39Z" finished-at="2019-04-23T05:41:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestCases.ALLTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
